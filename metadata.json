@@ -6,6 +6,7 @@
   "shell-version": [ "46", "47", "48" ],
   "url": "https://github.com/home-sweet-gnome/dash-to-panel",
   "gettext-domain": "dash-to-panel",
+  "settings-schema": "org.gnome.shell.extensions.dash-to-panel",
   "version": 9999,
   "donations": {
       "paypal": "charlesg99"
