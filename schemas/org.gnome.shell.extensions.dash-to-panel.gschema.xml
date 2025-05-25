@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schemalist gettext-domain="gnome-shell-extensions">
+<schemalist gettext-domain="dash-to-panel">
   <enum id='org.gnome.shell.extensions.dash-to-panel.appiconStyle'>
     <value value='0' nick='NORMAL'/>
     <value value='1' nick='SYMBOLIC'/>
